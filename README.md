@@ -1,4 +1,8 @@
 # QRcode_Generator-Python
+
+LIBRARY USED - ( qrcode )
+How to install -> open any Terminal ( CMD ,PyCharm ... etc. ) and type [ pip install qrcode ].
+
 QRcode generation using python 
 
 We can add custom colours to the QR
